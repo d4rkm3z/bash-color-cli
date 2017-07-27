@@ -1,0 +1,12 @@
+{
+    "name": "d4rkm3z/bash-color-cli",
+    "description": "Sets text color and background of input strings for PHP Cli in bash",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "D4rkm3z\\BashColorCLI\\": "src"
+        }
+    }
+}
